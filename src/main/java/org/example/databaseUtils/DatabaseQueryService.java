@@ -28,7 +28,6 @@ public class DatabaseQueryService {
         }
         return workers;
     }
-
     public List<FindLongestProject> findLongestProjects() {
         List<FindLongestProject> longest_project = new ArrayList<>();
 
